@@ -69,7 +69,7 @@ def output(columns, rows, final_x, final_y, raw_list):
             track_period = (track_period[0] + 1, True)
     return results
 
-#Runs the methods of this module separate from its status as the main script or not
+#Run the methods of this module separate from its status as the main script or not
 def run(matrix):
     logger.info("Processing given matrix: {}".format(matrix))
     rows, columns, final_x, final_y, raw_list = get_properties(matrix)
