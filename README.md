@@ -36,6 +36,7 @@ For a 3 x 3 matrix:
 
 The following commands are used:
 >python3 spiral_matrix.py -m 0 1 2 3 4 5 6 7 8 -r  3 -c 3
+
 or:
 >python3 spiral_matrix.py --raw_matrix 0 1 2 3 4 5 6 7 8 --rows 3 --columns 3
 
