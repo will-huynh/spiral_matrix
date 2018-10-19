@@ -48,7 +48,7 @@ Alternatively, you could add the script to your PYTHONPATH using the Python comm
 >sys.path.append("/<PATH_TO_REPO>/spiral_matrix.py")
 
 Afterwards you can use the script with:
-import spiral_matrix
+>import spiral_matrix
 
 The Python command to run the script for the matrix above is:
 >spiral_matrix.run([[0,1,2],[3,4,5],[6,7,8]])
