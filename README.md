@@ -29,7 +29,9 @@ First, navigate to the script directory. The script is then run with a terminal 
 
 For a 3 x 3 matrix:
 >[0, 1, 2]
+
 >[3, 4, 5]
+
 >[6, 7, 8]
 
 >python3 spiral_matrix.py -m 0 1 2 3 4 5 6 7 8 -r  3 -c 3
