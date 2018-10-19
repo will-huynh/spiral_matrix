@@ -3,7 +3,7 @@
 This Python script is a solution to the spiral matrix problem, which is a common benchmark problem for developers. The spiral matrix problem is where a matrix must be traversed in a "spiral" path and returned as a list. An example is below:
 
 ![alt text](http://1.bp.blogspot.com/-CD9C_7oeI3I/VgwL3AO-IeI/AAAAAAAACBc/EG-WAf-y_7E/s1600/spiral-circular-matrix.jpg)
-
+>Image Source: http://1.bp.blogspot.com/-CD9C_7oeI3I/VgwL3AO-IeI/AAAAAAAACBc/EG-WAf-y_7E/s1600/spiral-circular-matrix.jpg
 
 ## Installation:
 
